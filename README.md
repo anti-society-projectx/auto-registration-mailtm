@@ -1,5 +1,13 @@
 # auto-registration-mailtm
 
+## 🧾 Требования
+
+### ⚠️ Python >= 3.9
+### Установите зависимости командой:
+```commandline
+pip install -r requirements.txt
+```
+
 ## Быстрый запуск
 ### Скопируйте или добавьте список прокси в proxies.txt
 ### Запустите скрипт:
