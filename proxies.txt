@@ -1,0 +1,2 @@
+socks5://hippp1i-12.majorsecure.org:8914
+socks5://haj2jal9.majorsecure.org:8924
