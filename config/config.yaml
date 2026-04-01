@@ -1,0 +1,3 @@
+paths:
+  import_proxies: "config/proxies.txt"
+  export_results: "output/mails.txt"
