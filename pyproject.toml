@@ -3,4 +3,6 @@ name = "auto-registration-mailtm"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "httpx>=0.28.1",
+]
